@@ -1,12 +1,13 @@
 ### T-rex-game-playing-by-Python-AutoBot
+it can automatically play the Trex game on your chrome browser
 
 First Download these required libaries for your project 
+
 **pip install -r requirements.txt**
 
 Then run the file 
 **python3 bot.py**
 
-T-rex-game-playing-by-Python-AutoBot/Screenshot from 2019-03-09 22-35-53.png
 
 ![alt text](https://github.com/jitunayak/T-rex-game-playing-by-Python-AutoBot/blob/master/Screenshot%20from%202019-03-09%2022-35-53.png)
 
