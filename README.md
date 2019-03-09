@@ -13,3 +13,7 @@ You may change the co-ordiantes based on your screen resolution
     It is tested on 720p panel
     OS : Ubuntu 18.04.2
 
+
+        T-rex-game-playing-by-Python-AutoBot/Screenshot from 2019-03-09 22-35-53.png
+      ![alt text](https://github.com/jitunayak/T-rex-game-playing-by-Python-AutoBot/Screenshot from 2019-03-09 22-35-53.png
+)
